@@ -1,0 +1,22 @@
+{
+  "name": "page-fetcher",
+  "version": "1.0.0",
+  "description": "Page Fetcher Project",
+  "main": "fetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-cy-lu/page-fetcher.git"
+  },
+  "author": "Daniel Lu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel-cy-lu/page-fetcher/issues"
+  },
+  "homepage": "https://github.com/daniel-cy-lu/page-fetcher#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
